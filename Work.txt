@@ -11,6 +11,12 @@ Call by value(값에 의한 호출):
 Static:
 지역변수:
 
+[알고리즘]
+유한상태머신(FSM):
+상태(State):
+비헤이비어트리:
+A*:
+
 [게임수학/물리]
 Vector:
 -방향:
@@ -45,6 +51,12 @@ static member:
 
 [Unity]
 GetComponent:
+
+[Unreal]
+비헤이비어트리:
+-테스크:
+-
+-
 
 [질문]
 ANSI로 저장한 한글이 깨지는 이유
